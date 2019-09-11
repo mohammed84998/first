@@ -1,0 +1,5 @@
+Database name: mosque
+Database user: root
+Database pass: 
+WP_Username: mosque
+WP_Password: m0sque@admin.ils

@@ -1,0 +1,24 @@
+<a href="http://www.instagram.com" target="_blank"><img src="http://localhost/mosque/wp-content/uploads/2019/09/icon-img.png"></a>
+
+<ul class="et-social-icons">
+	<li class="et-social-icon et-social-twitter">
+		<a href="#" target="_blank">
+			<img src="http://localhost/mosque/wp-content/uploads/2019/09/icon-img.png">
+		</a>
+	</li>
+	<li class="et-social-icon et-social-google-plus">
+		<a href="#" target="_blank">
+			<img src="http://localhost/mosque/wp-content/uploads/2019/09/icon-img1.png">
+		</a>
+	</li>
+	<li class="et-social-icon et-social-instagram">
+		<a href="#" target="_blank">
+			<img src="http://localhost/mosque/wp-content/uploads/2019/09/icon-img2.png">
+		</a>
+	</li>
+	<li class="et-social-icon et-social-rss">
+		<a href="#" target="_blank">
+			<img src="http://localhost/mosque/wp-content/uploads/2019/09/icon-img3.png">
+		</a>
+	</li>
+</ul>
